@@ -1,0 +1,38 @@
+NAME : A-n32-k5
+TYPE : CVRP
+DIMENSION : 32
+EDGE_WEIGHT_TYPE : EUC_2D
+CAPACITY : 100
+NODE_COORD_SECTION
+SRC = 01 | X = 82 | Y = 76 | Demand = 00
+SRC = 02 | X = 96 | Y = 44 | Demand = 19
+SRC = 03 | X = 50 | Y = 05 | Demand = 21
+SRC = 04 | X = 49 | Y = 08 | Demand = 06
+SRC = 05 | X = 13 | Y = 07 | Demand = 19
+SRC = 06 | X = 29 | Y = 89 | Demand = 07
+SRC = 07 | X = 58 | Y = 30 | Demand = 12
+SRC = 08 | X = 84 | Y = 39 | Demand = 16
+SRC = 09 | X = 14 | Y = 24 | Demand = 06
+SRC = 10 | X = 02 | Y = 39 | Demand = 16
+SRC = 11 | X = 03 | Y = 82 | Demand = 08
+SRC = 12 | X = 05 | Y = 10 | Demand = 14
+SRC = 13 | X = 98 | Y = 52 | Demand = 21
+SRC = 14 | X = 84 | Y = 25 | Demand = 16
+SRC = 15 | X = 61 | Y = 59 | Demand = 03
+SRC = 16 | X = 01 | Y = 65 | Demand = 22
+SRC = 17 | X = 88 | Y = 51 | Demand = 18
+SRC = 18 | X = 91 | Y = 02 | Demand = 19
+SRC = 19 | X = 19 | Y = 32 | Demand = 01
+SRC = 20 | X = 93 | Y = 03 | Demand = 24
+SRC = 21 | X = 50 | Y = 93 | Demand = 08
+SRC = 22 | X = 98 | Y = 14 | Demand = 12
+SRC = 23 | X = 05 | Y = 42 | Demand = 04
+SRC = 24 | X = 42 | Y = 09 | Demand = 08
+SRC = 25 | X = 61 | Y = 62 | Demand = 24
+SRC = 26 | X = 09 | Y = 97 | Demand = 24
+SRC = 27 | X = 80 | Y = 55 | Demand = 02
+SRC = 28 | X = 57 | Y = 69 | Demand = 20
+SRC = 29 | X = 23 | Y = 15 | Demand = 15
+SRC = 30 | X = 20 | Y = 70 | Demand = 02
+SRC = 31 | X = 85 | Y = 60 | Demand = 14
+SRC = 32 | X = 98 | Y = 05 | Demand = 09
