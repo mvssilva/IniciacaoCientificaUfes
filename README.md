@@ -1,5 +1,5 @@
 # Labotim
-- Códigos realizados para a Iniciação Científica no Laboratório da Ufes (Labotim - Otimização e Modelagem Corporal)
+- Códigos realizados para a Iniciação Científica no Laboratório da Ufes (Labotim - Otimização e Modelagem Computacional)
 
 ## 1 - Algorítimo de Buscas em Grafos
 - Implementação de busca em largura e busca em profundidade, em grafos orientados e grafos não orientados.
